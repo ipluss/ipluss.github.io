@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ipluss.relwin.com/sitemap.xml
+Disallow: /
