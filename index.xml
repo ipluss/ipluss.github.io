@@ -6,7 +6,8 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 May 2022 19:15:08 +0800</lastBuildDate><atom:link href="https://ipluss.relwin.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Jia</copyright>
+    <lastBuildDate>Tue, 03 May 2022 19:51:34 +0800</lastBuildDate><atom:link href="https://ipluss.relwin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
       <link>https://ipluss.relwin.com/content/post/even-preview/</link>
@@ -25,6 +26,15 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Huobietf</title>
+      <link>https://ipluss.relwin.com/post/huobietf/</link>
+      <pubDate>Tue, 03 May 2022 19:51:34 +0800</pubDate>
+      
+      <guid>https://ipluss.relwin.com/post/huobietf/</guid>
+      <description>#场内货币基金有哪些？# 场内货币基金分为交易型和申购赎回型。目前大部分场内都是当天买/申购当天就可以卖、赎回，而且当天计息，想想都觉得很爽呢</description>
     </item>
     
     <item>
